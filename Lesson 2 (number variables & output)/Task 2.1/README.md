@@ -1,3 +1,13 @@
 ### Task 2.1
 
-Create <u>two<\u> char type variables, one contains first big letter of English alphabet, second - last big letter of English alphabet. Print them using a format Console.WriteLine() as on the first image.
+
+Create _two_ ```char``` type variables, _one_ contains first big letter of English alphabet, second - last big letter of English alphabet. Print them using a format ```Console.WriteLine()``` as on the first image.
+
+
+Restriction: 
+1. You can declare only two variables.
+2. You can use only one Console.WriteLine() method in your program.
+
+
+Bonus:
+1. Comment your code.
