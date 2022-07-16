@@ -38,7 +38,7 @@ Write a program that asks user to enter _two_ ```int``` numbers. To print:
 > 5) _-1_ * _-1_ = _1_.     Positive: _True_<br>
 > 6) _-1_ / _-1_ = _1_.     Positive: _True_<br>
 > 7) _-1_ % _-1_ = _0_.     Division and remainder equals: _False_<br>
-> 8) _-1_ ^_-1_ = _-1_.     Even: _False_
+> 8) _-1_ ^ _-1_ = _-1_.     Even: _False_
 
 
 
@@ -53,4 +53,4 @@ Write a program that asks user to enter _two_ ```int``` numbers. To print:
 > 5) _3_ * _2_ = _6_.     Positive: _True_<br>
 > 6) _3_ / _2_ = _1_.     Positive: _True_<br>
 > 7) _3_ % _2_ = _1_.       Division and remainder equals: _True_<br>
-> 8) _3_ ^_2_ = _9_.        Even: _False_
+> 8) _3_ ^ _2_ = _9_.        Even: _False_
