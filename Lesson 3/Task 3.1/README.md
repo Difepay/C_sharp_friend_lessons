@@ -21,7 +21,7 @@ Write a program that declare _one_ variable type ```char``` and initializes it w
 * _Italic_ font - to print / calculate.
 
 
-**Console example (user input pronounced with bold font):**
+**Console example:**
 > Enter second char: **A**<br>
 > Enter third char: **L**<br>
 > <br>
