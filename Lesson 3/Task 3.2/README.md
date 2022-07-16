@@ -28,11 +28,14 @@ Write a program that asks user to enter _two_ ```int``` numbers. To print:
 
 
 **Console example 1:**
-> Enter second char: **A**<br>
-> Enter third char: **L**<br>
+> Enter first number: **-1**<br>
+> Enter second number: **-1**<br>
 > <br>
-> <span>&#49;)</span> First char: _H_.    Next char: _I_<br>
-> 2) First value: _72_<br>
-> 3) Sum of values: _213_<br>
-> 4) Average of the first and third values: _74_<br>
-> 5) Char of the last operation value: _J_<br>
+> <span>&#49;)</span> Both numbers are equals: _True_<br>
+> 2) Second number is bigger: _False_<br>
+> 3) _-1_ + _-1_ = _-2_.    Positive: _False_<br>
+> 4) |_-1_ - _-1_| = _0_.   Odd: _False_<br>
+> 5) _-1_ * _-1_ = _1_.     Positive: _True_<br>
+> 6) _-1_ / _-1_ = _1_.     Positive: _True_<br>
+> 7) _-1_ % _-1_ = _0_.     Division and remainder equals: _False_<br>
+> 8) _-1_ ^_-1_ = _-1_.     Even: _False_
