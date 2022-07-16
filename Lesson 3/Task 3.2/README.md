@@ -39,3 +39,18 @@ Write a program that asks user to enter _two_ ```int``` numbers. To print:
 > 6) _-1_ / _-1_ = _1_.     Positive: _True_<br>
 > 7) _-1_ % _-1_ = _0_.     Division and remainder equals: _False_<br>
 > 8) _-1_ ^_-1_ = _-1_.     Even: _False_
+
+
+
+**Console example 2:**
+> Enter first number: **3**<br>
+> Enter second number: **2**<br>
+> <br>
+> <span>&#49;)</span> Both numbers are equals: _False_<br>
+> 2) Second number is bigger: _False_<br>
+> 3) _3_ + _2_ = _5_.    Positive: _True_<br>
+> 4) |_3_ - _2_| = _1_.   Odd: _True_<br>
+> 5) _3_ * _2_ = _6_.     Positive: _True_<br>
+> 6) _3_ / _2_ = _1_.     Positive: _True_<br>
+> 7) _3_ % _2_ = _1_.       Division and remainder equals: _True_<br>
+> 8) _3_ ^_2_ = _9_.        Even: _False_
