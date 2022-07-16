@@ -17,8 +17,8 @@ Write a program that declare _one_ variable type ```char``` and initializes it w
 
 
 **Console spicifications:**
-* Bold font - user input.
-* Italic font - to print / calculate.
+* **Bold** font - user input.
+* _Italic_ font - to print / calculate.
 
 
 **Console example (user input pronounced with bold font):**
